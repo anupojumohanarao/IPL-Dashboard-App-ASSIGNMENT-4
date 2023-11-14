@@ -47,7 +47,7 @@
   }
 }
 
-result {
+.total-results {
   text-align: center;
   color: #ffffff;
   font-family: 'Bree Serif';
@@ -55,7 +55,7 @@ result {
 }
 
 @media screen and (min-width: 768px) {
-  .result {
+  .total-results {
     font-size: 16px;
   }
 }
